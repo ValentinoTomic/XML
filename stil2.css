@@ -1,0 +1,74 @@
+.navigacija {padding:16px 16px;
+
+float:right;
+width:auto;
+margin-top:1%;
+margin-right:-0.5%;
+border:none;
+display:block;
+outline:0;
+box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+letter-spacing:4px;
+white-space:normal}
+.naslov{
+	float:left;
+	width:auto;
+	padding:16px 16px;
+}
+.naslov img{width:1500px; margin-top:3%;}
+.naslov h2{float:left; margin-top:-23%;}
+a{background-color:transparent; text-decoration: none;}a:active,a:hover{background-color:#8d918e;}
+.link{padding:8px 16px;float:left;width:auto;border:none;display:block;outline:0;white-space:normal;color:black;font-size:18px;}
+
+body {
+width: 100%;
+
+}
+main{
+	width:70%;
+	margin: auto;
+font-family: Arial, Helvetica, sans-serif;}
+header img{
+width:100%;
+border: 5px solid black;}
+
+header{
+	clear:both;
+	position:relative;
+	padding-bottom:50px;
+}
+.bottom-left{position: absolute;
+bottom: 60px;
+ left: 16px;
+ font-size: 19px;
+ color:#8d918e;
+ }
+
+.oformuli{
+	padding-top:40px;
+	box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+	
+	padding-left:10px;
+	width: 50%;
+float: left;}
+
+.max{
+	padding-top:40px;
+margin-right:-1%;
+	box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+	width: 48%;
+	float: right;
+	background-color:orange;}
+.oformuli p{width:40%;float:left;}
+.oformuli img {float:right;
+width:60%}
+
+footer{clear:both; background-color:grey; width:100%; margin:auto; padding-top: 32px;
+    padding-bottom: 32px;}
+footer p{text-align:center;}
+.max p{float: left; width: 30%; padding-left:10px; padding-right:10px;}
+.max img{float:rigth;}
+
+.video{margin-top:50%; padding-top:50px;}
+.tablica{margin-top:10%; padding-top:2px; padding-bottom:50px;}
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osvajaci_prvenstva>
+    <vozaci>
+        <vozac>Michael Schumacher</vozac>
+        <vozac>Lewis Hamilton</vozac>
+        <vozac>Juan Manuel Fangio</vozac>
+        <vozac>Alain Prost</vozac>
+        <vozac>Sebastian Vettel</vozac>
+        <vozac>Jack Brabham</vozac>
+        <vozac>Jackie Stewart</vozac>
+        <vozac>Niki Lauda</vozac>
+    </vozaci>
+    <prvenstva>
+        <prvenstvo>7</prvenstvo>
+        <prvenstvo>7</prvenstvo>
+        <prvenstvo>5</prvenstvo>
+        <prvenstvo>4</prvenstvo>
+        <prvenstvo>4</prvenstvo>
+        <prvenstvo>3</prvenstvo>
+        <prvenstvo>3</prvenstvo>
+        <prvenstvo>3</prvenstvo>
+    </prvenstva>
+    <timovi>
+        <tim>Mercedes,Ferrari</tim>
+        <tim>McLaren, Mercedes</tim>
+        <tim>Alfa Romeo, Mercedes, Ferrari</tim>
+        <tim>McLaren, Renault, Ferrari</tim>
+        <tim>Ferrari, Redbull</tim>
+        <tim>Cooper</tim>
+        <tim>BRM, Matra</tim>
+        <tim>Mclaren, BRM, Ferrari</tim>
+    </timovi>
+</osvajaci_prvenstva>
